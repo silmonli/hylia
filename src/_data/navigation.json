@@ -6,15 +6,15 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "Weeknotes",
+      "url": "/weeknotes",
+      "external": false
     },
 
     {
       "text": "Interesting Links",
       "url": "/links",
-      "external": true
+      "external": false
     },
     {
       "text": "Contact",
