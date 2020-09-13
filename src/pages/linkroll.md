@@ -1,6 +1,6 @@
 ---
 title: 'Recent places of interest'
-permalink: '/links/linkroll.html'
+permalink: '/links/index.html'
 layout: 'layouts/linkroll.njk'
 ---
 
