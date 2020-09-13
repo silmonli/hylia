@@ -51,6 +51,18 @@ const Post = ({ entry }) => (
   />
 );
 
+const Weeknotes = ({ entry }) => (
+  <Preview
+    entry={entry}
+    path="layouts/weeknotes.njk"
+    context={({ title, date, body }) => ({
+      title,
+      date,
+      content: markdownFilter(body || ''),
+    })}
+  />
+);
+
 const Page = ({ entry }) => (
   <Preview
     entry={entry}
@@ -90,6 +102,7 @@ const Nav = ({ entry }) => (
 
 CMS.registerPreviewTemplate('home', Home);
 CMS.registerPreviewTemplate('posts', Post);
+CMS.registerPreviewTemplate('weeknotes', Weeknotes);
 CMS.registerPreviewTemplate('generic_pages', Page);
 CMS.registerPreviewTemplate('site_data', SiteData);
 CMS.registerPreviewTemplate('nav', Nav);
