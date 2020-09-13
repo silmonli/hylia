@@ -11,7 +11,7 @@
 {% set postListItems = collections.postFeed %}
 
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{% if postListItems.length < collections.posts.length %}
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
@@ -23,3 +23,5 @@
     {% include "partials/components/pagination.njk" %}
   </main>
 {% endblock %}
+
+<p><script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=silmonli&amp;count=40&amp;tag=interesting">  </script></p>
