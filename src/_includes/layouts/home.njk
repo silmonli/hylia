@@ -6,6 +6,9 @@
   {{ content | safe }}
 {% endset %}
 
+<p><script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=silmonli&amp;count=40&amp;tag=interesting">  </script></p>
+
+
 {# Post list content #}
 {% set postListHeading = postsHeading %}
 {% set postListItems = collections.postFeed %}
@@ -23,5 +26,3 @@
     {% include "partials/components/pagination.njk" %}
   </main>
 {% endblock %}
-
-<p><script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=silmonli&amp;count=40&amp;tag=interesting">  </script></p>
