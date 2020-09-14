@@ -60,7 +60,7 @@ module.exports = function(config) {
     ].reverse();
   });
 
-  config.addCollection('postFeed', collection => {
+  config.addCollection('weeknotesFeed', collection => {
     return [...collection.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)]
       .reverse()
       .slice(0, site.maxPostsPerPage);
