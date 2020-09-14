@@ -54,14 +54,14 @@ module.exports = function(config) {
 
   // Custom Weeknotes
   const liveWeeknotes = weeknotes => weeknotes.date <= now && !weeknotes.data.draft;
-  config.addCollection('weeknotes', collectionweeknotes => {
+  config.addCollection('weeknotes', collection => {
     return [
-      ...collectionweeknotes.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)
+      ...collection.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)
     ].reverse();
   });
 
   config.addCollection('postFeed', collection => {
-    return [...collectionweeknotes.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)]
+    return [...collection.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)]
       .reverse()
       .slice(0, site.maxPostsPerPage);
   });
