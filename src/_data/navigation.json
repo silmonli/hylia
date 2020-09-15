@@ -5,20 +5,23 @@
       "url": "/",
       "external": false
     },
-    {
-      "text": "Weeknotes",
-      "url": "/weeknotes",
-      "external": false
-    },
 
     {
       "text": "Interesting Links",
       "url": "/links",
       "external": false
     },
+
     {
-      "text": "Contact",
-      "url": "/contact",
+      "text": "Posts",
+      "url": "/archive",
+      "external": false
+    },
+
+   
+    {
+      "text": "About",
+      "url": "/about",
       "external": false
     }
   ]
