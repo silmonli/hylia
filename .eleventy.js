@@ -52,19 +52,6 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
-  // Custom Weeknotes
-  const liveWeeknotes = weeknotes => weeknotes.date <= now && !weeknotes.data.draft;
-  config.addCollection('weeknotes', collection => {
-    return [
-      ...collection.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)
-    ].reverse();
-  });
-
-  config.addCollection('weeknotesFeed', collection => {
-    return [...collection.getFilteredByGlob('./src/weeknotes/*.md').filter(liveWeeknotes)]
-      .reverse()
-      .slice(0, site.maxPostsPerPage);
-  });
 
   // Plugins
   config.addPlugin(rssPlugin);
