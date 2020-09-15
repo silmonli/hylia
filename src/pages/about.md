@@ -28,3 +28,8 @@ The way I work and live:
 - Always do your best
 - Be kind and helpful
 - Listen. Especially to kids, they are very smart people.
+
+I always welcome sharing experiences and constructive feedback.  If you're interested in talking, the quickest way to reach me is:
+
+[Twitter](https://www.twitter.com/silmonli) 
+[LinkedIn](https://www.linkedin.com/in/silmonli)
