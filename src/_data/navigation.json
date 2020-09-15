@@ -7,13 +7,13 @@
     },
 
     {
-      "text": "Interesting Links",
+      "text": "Interesting links",
       "url": "/links",
       "external": false
     },
 
     {
-      "text": "Posts",
+      "text": "Recent posts",
       "url": "/archive",
       "external": false
     },
