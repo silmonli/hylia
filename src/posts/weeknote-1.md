@@ -18,7 +18,7 @@ Here were some of the findings:
 - Tensions were high and felt we weren’t performing at the the time. People’s wellbeing and supporting each other is vital
 - Implicitly trusting one another is key in a crisis. It’s very difficult to look back on decisions made in an fast paced evolving situation 
 - We proved that our role was critical to the wider team and customers, so much so that we were asked to accelerate our ambitions
-- Finally, we need to take the time back and spend time ‘forming’ as a team. The pandemic forced us all into much more of a ‘storming’ phase.  If you’re familiar with [Tucker’s stages of group development] (https://en.m.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development), it’s necessary to go through all stages in order for a team to grow, face up to challenges, tackle problems, find solutions, plan work, and deliver results. 
+- Finally, we need to take the time back and spend time ‘forming’ as a team. The pandemic forced us all into much more of a ‘storming’ phase.  If you’re familiar with [Tucker’s stages of group development](https://en.m.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development), it’s necessary to go through all stages in order for a team to grow, face up to challenges, tackle problems, find solutions, plan work, and deliver results. 
 
 Standing back, there was a realisation that we did the best we could in a unique moment that we will remember for the rest of our lives.  We’re not in a bad place after all.  As the wise of saying goes ‘Crises brings the best and worst out of us’. I think that sums it up very nicely.
 
@@ -34,5 +34,5 @@ I’m also prepping for Product Leaders Meet-up. This is where our Senior Produc
 
 The kids are going back to school. Eldest is eager to start Year 2 and getting up to mischiefs with friends. We have our youngest starting the same school in Reception year. I have to give a lot of admiration to both of them as they have showed a lot of resilience coping and adapting to all the change that COVID-19 has caused.
 
-At the start of our 2 week holiday my wife, Alex, got her promotion to a Peadiatric Consultant at our local hospital. I’m very proud about what she has achieved and we call finally say after 20 years of hard graft and raising two kids at the same time that we won’t be known as a ‘Junior doctor’. It’s given us more certainty about our future and we can start to think about what next for our family.
+At the start of our 2 week holiday my wife, Alex, got her promotion to a Peadiatric Consultant at our local hospital. I’m very proud about what she has achieved and we call finally say after 20 years of hard graft and raising two kids at the same time that she won’t be known as a ‘Junior doctor’. It’s given us more certainty about our future and we can start to think about what next for our family.
 
