@@ -7,7 +7,7 @@ tags:
 September is the new start of the year and what better month to start my week notes. I’ve just got back from a long and restful two week holiday and came back to a four day working week. As the summer days dwindle and life gets back to a little bit of normality, it’s clear that that we’re all moving onto a new phase.  But this week that new phase will need a bit of a kick start... it’s been a hard week to get back in the groove. The number of times I forgotten to do things are not being able to finish a piece of work when I expected I would shows that having break doesn’t always give you that rejuvenation! It might also just be my old age starting to kick in. I’ve also had a conversation with myself that that it’s ok not to be at the top of you game all the time.
 
 
-##Time for a retro
+## Time for a retro
 
 
 At work we're coming up to the half way point of the financial year (FY20/21) and that means taking time out to reflect and what needs to be for the rest of the year.  In our retro we discussed what we learnt from the first wave of COVID-19. 
@@ -25,12 +25,12 @@ Standing back, there was a realisation that we did the best we could in a unique
 Looking forward, we decided to take stock of what we are doing for the next 6 months. More about this in future posts.
 
 
-##A community run by product leaders for product leaders
+## A community run by product leaders for product leaders
 
 I’m also prepping for Product Leaders Meet-up. This is where our Senior Product Owners (SPOs) get together every six weeks to discuss how we do we do Product Management better. Our role as Product Leaders is to enable product teams to make brilliant products. We have a great set of enthusiastic SPOs behinds the scene helping. I love how we have (slowly) created an engaged community and willing to participate, learn and have a bit of fun too!
 
 
-##Non work stuff
+## Non work stuff
 
 The kids are going back to school. Eldest is eager to start Year 2 and getting up to mischiefs with friends. We have our youngest starting the same school in Reception year. I have to give a lot of admiration to both of them as they have showed a lot of resilience coping and adapting to all the change that COVID-19 has caused.
 
